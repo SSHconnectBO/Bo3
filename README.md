@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.3",
+  "Version": "1.0.4",
   "ReleaseNotes": "Nueva Actualización Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/SSHconnectBO/SSHBO/main/Bo1",
   "Sms": "",
@@ -67,7 +67,7 @@
       "Info": "Ssl"
     },
     {
-      "Name": "REDES SOCIALES 📲⚠️",
+      "Name": " REDES SOCIALES 📲⚠️",
       "FLAG": "claro",
       "Payload": "GET wess://brws1.bnetservice.com.mx HTTP/1.1[crlf]Host: test.sssinstagram.com[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
       "SNI": "",
