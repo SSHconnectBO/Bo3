@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.2",
+  "Version": "1.0.3",
   "ReleaseNotes": "Nueva Actualización Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/SSHconnectBO/SSHBO/main/Bo1",
   "Sms": "",
@@ -69,7 +69,7 @@
     {
       "Name": "REDES SOCIALES 📲⚠️",
       "FLAG": "claro",
-      "Payload": "GET wess://br.connectbo.shop HTTP/1.1[crlf]Host: test.sssinstagram.com[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Payload": "GET wess://brws1.bnetservice.com.mx HTTP/1.1[crlf]Host: test.sssinstagram.com[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
       "SNI": "",
       "TlsIP": "test.sssinstagram.com",
       "ProxyIP": "test.sssinstagram.com",
